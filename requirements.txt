@@ -1,5 +1,0 @@
-tensorflow
-opencv
-numpy 
-pandas
-matplotlib
